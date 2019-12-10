@@ -1,2 +1,8 @@
-2019-12-10 16:08:18,256  INFO  [root]  [test01_login.py(test001:18)]  -  用例开始执行
-2019-12-10 16:08:18,292  INFO  [root]  [test01_login.py(test001:21)]  -  打开格式
+2019-12-10 17:59:47,062  INFO  [root]  [test01_login.py(test001:18)]  -  用例开始执行
+2019-12-10 17:59:47,106  INFO  [root]  [test01_login.py(test001:21)]  -  打开格式
+2019-12-10 17:59:51,384  INFO  [root]  [test01_login.py(test001:18)]  -  用例开始执行
+2019-12-10 17:59:51,417  INFO  [root]  [test01_login.py(test001:21)]  -  打开格式
+2019-12-10 17:59:53,368  INFO  [root]  [test01_login.py(test001:18)]  -  用例开始执行
+2019-12-10 17:59:53,403  INFO  [root]  [test01_login.py(test001:21)]  -  打开格式
+2019-12-10 17:59:54,590  INFO  [root]  [test01_login.py(test001:18)]  -  用例开始执行
+2019-12-10 17:59:54,622  INFO  [root]  [test01_login.py(test001:21)]  -  打开格式
