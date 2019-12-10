@@ -1,4 +1,5 @@
 # 导包
+import logging
 import unittest
 
 import api
@@ -14,8 +15,10 @@ class Test(unittest.TestCase):
 
     # 创建测试用例01
     def test001(self):
+        logging.info("用例开始执行")
         # 调用api层登陆方法
         tt = self.login.login("13800000002", "123456")
+        logging.info("打开格式")
         # 把相应数据以json格式显示出来
         data = tt.json()
         # 把相应结果data用户令牌取出存入变量
